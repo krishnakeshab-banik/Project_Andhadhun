@@ -65,8 +65,8 @@ After running, follow the voice prompts to:
 
 ## Contributions
 ### Team HUNT-X
-- **Shaurya Kesarwani** - Technical
 - **Krishna Keshab Banik** - Technical Development
+- **Shaurya Kesarwani** - Technical Development
 - **Aaryan Sarat** - Hardware Development
 - **Dhriti Kothari Jain** - Presentation and Research
 - **Sanjay Kumar Gupta** - Presentation and Research
