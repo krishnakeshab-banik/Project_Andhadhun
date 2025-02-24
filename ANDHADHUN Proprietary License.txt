@@ -1,0 +1,17 @@
+### ANDHADHUN Proprietary License
+
+**Copyright (c) 2025 HUNT-X**
+
+All rights reserved.
+
+Permission is hereby granted to individuals and organizations to use this software **only with explicit written permission** from the owners. Modification, distribution, or commercial use of this software without prior authorization is strictly prohibited.
+
+## Terms and Conditions:
+1. **Personal and Organizational Use**: You may use this software only if you have been granted written permission by the authors.
+2. **No Redistribution**: You may not distribute, sublicense, or resell this software without prior approval.
+3. **No Modification Without Approval**: Any modifications must be reviewed and approved by the original authors.
+4. **No Warranty**: The software is provided "as is" without any warranties, express or implied.
+5. **Legal Action**: Unauthorized use, distribution, or modification of this software may result in legal consequences.
+
+For permissions, licensing requests, or inquiries, contact **Krishna Keshab Banik** at [krishna.keshab.banik@gmail.com](mailto:krishna.keshab.banik@gmail.com).
+
